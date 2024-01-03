@@ -1,0 +1,59 @@
+
+.cell1{
+    background-color: gainsboro;
+    flex:1;
+    width: 200px;
+    padding-left:50px;
+    padding-right:50px;
+}
+.cell2{
+    background-color: gainsboro;
+    flex:1;
+    width: 200px;
+    padding-left:50px;
+    padding-right:50px;
+}
+.cell3{
+    background-color: gainsboro;
+    flex:1;
+    width: 200px;
+    padding-left:50px;
+    padding-right:50px;
+}
+.cell4{
+    background-color:  gainsboro;
+    flex:1;
+    width: 200px;
+    padding-left:50px;
+    padding-right:50px;
+}
+.ajouter{
+    background-color:  rgba(43, 138, 248, 1);
+    height: 40px;
+    width: 183px;
+    box-shadow: #F5F5F5;
+    text-shadow: #F5F5F5;
+    border-radius: 7px;
+    border-color: rgba(43, 138, 248, 1);
+
+}
+.chercher{
+    background: linear-gradient(0deg, gainsboro, gainsboro),
+    linear-gradient(0deg, #FFFFFF, #FFFFFF);
+    border-radius: 7px;
+
+}
+.fenetre{
+    width:auto ;
+    display: flex;
+    align-items: center;
+    padding-left: 450px;
+}
+.sidebar{
+    padding-right:500px ;
+}
+.tableau{
+
+    height: auto;
+    margin-left: 100px;
+}
